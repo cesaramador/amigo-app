@@ -37,3 +37,19 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Node (si usas JS/TS)
+node_modules/
+
+# Compilados o temporales
+*.log
+*.tmp
+dist/
+build/
